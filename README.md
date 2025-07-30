@@ -1,60 +1,82 @@
-# 👨‍💻 Abdulrahman Firas — Cybersecurity Enthusiast
+# 👋 Hello, I'm Abdulrahman Firas  
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-🛡️ Aspiring Cybersecurity Analyst | 📚 Self-taught | 🔎 Passionate about Threat Detection & Offensive Security  
-🌍 Based in UAE | 📈 Focused on building real-world skills through labs, certifications, and continuous learning
-
----
-
-## 🧠 About Me
-
-I’m a highly motivated learner in the field of cybersecurity, working to build a strong foundation in both blue teaming and ethical hacking.  
-While I started through academic routes, I’ve chosen to focus on **practical certifications, hands-on labs**, and **real-world projects** to prove my skills and grow fast in the industry.
-
-My goal is to land a junior role in cybersecurity, gain experience, build strong connections, and eventually turn my passion into full-time specialized work in **threat hunting, malware analysis**, or **red teaming**.
+Driven cybersecurity learner focused on blue teaming, threat detection, and SOC operations. Passionate about building real-world skills and solving security incidents through practice, not theory.
 
 ---
 
-## 📜 Certifications & Learning Path
+## 🎯 Objective
 
-### ✅ Completed:
-- **Google Cybersecurity Professional Certificate**  
-- **Cisco: Introduction to Cybersecurity**  
-- **Cisco: Networking Basics**  
-- **Qualys Cybersecurity Labs**  
-- **The Forage Virtual Internships (Cyber tracks)**  
-
-### 🎯 In Progress:
-- **ISC2 Certified in Cybersecurity (CC)** *(Exam this week)*  
-- **Cisco Ethical Hacker (CEH-alike, 70+ hrs content)**  
-- **TryHackMe & HackTheBox Labs**  
-- **INE eJPT (next step)**  
+Currently seeking a junior role in cybersecurity (SOC Tier 1 Analyst or related), where I can apply my practical training, continue learning, and contribute to protecting digital environments.
 
 ---
 
-## 🧪 Labs & Hands-On Work
+## 💡 Skills
 
-I’m currently building a solid portfolio of practical skills through:
-- Simulated environments (TryHackMe, Let'sDefend, BlueTeamLabs, RangeForce)  
-- Threat detection labs, malware analysis, and SOC simulations  
-- Personal write-ups and playbooks *(to be uploaded here)*
-
----
-
-## 📂 Public Repositories (Coming Soon)
-
-- `soc-playbook`: My own SOC analyst playbook  
-- `malware-lab`: Reversing & static/dynamic analysis practice  
-- `blue-team-labs`: Notes and tools for detection engineering  
-- `cc-prep`: ISC2 CC Exam prep notes and practice questions  
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation & Log Analysis            | [Detection Lab](https://github.com/) |
+| Network Traffic Monitoring & Attack Detection | [THM Labs](https://tryhackme.com/) |
+| SOC Playbook Creation & IR Documentation      | [SOC Playbook](https://github.com/) |
+| Security Automation with Shuffle              | [SOC Automation Project](https://github.com/) |
+| Case Management with TheHive & Cortex         | [SOC Automation Project](https://github.com/) |
+| Basic Scripting (Python/Bash) for Automation  | [Tools Repo](https://github.com/) |
 
 ---
 
-## 📫 Contact
+## 🧰 Tools
 
-- 📧 a6291088@gmail.com  
-- 🌐 [echooprint.me](https://echooprint.me) *(soon)*  
-- 💼 [LinkedIn](https://linkedin.com/in/your-username) *(optional)*
+### 🕸️ Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-563D7C?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### 🖥️ Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### 📊 SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### 🔧 Other Tools
+<div>
+    <img src="https://img.shields.io/badge/-TheHive-000000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shuffle_SOAR-5A2D81?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CyberChef-00758F?&style=for-the-badge&logoColor=white" />
+</div>
 
 ---
 
-🧭 *“I don't chase degrees—I chase knowledge, skills, and results.”*
+## 🧾 Certifications
+
+<div>
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Cybersecurity-1D9BF0?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Qualys_Cyber_Labs-E00000?&style=for-the-badge&logo=Qualys&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Forage_Cybersecurity_Internships-212121?&style=for-the-badge&logo=theforage&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISC2_CC_(In_Progress)-34A853?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Ethical_Hacker_(In_Progress)-005073?&style=for-the-badge&logo=Cisco&logoColor=white" />
+</div>
+
+---
+
+## 📂 Projects
+
+- `SOC Playbook`: Custom playbook for Tier 1 Analysts (triage, escalation, reporting)
+- `Detection Lab`: Simulated attacks and SIEM log analysis
+- `SOC Automation Project`: TheHive + Cortex + Shuffle orchestration setup
+- `ISC2 CC Prep`: Notes, questions, and summaries for exam prep *(private for now)*
+
+---
+
+💬 *“I believe in proving skills through action—not just theory or titles.”*
+
+📫 Feel free to connect with me via [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) or email: a6291088@gmail.com
