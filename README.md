@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Abdulrahman Firas  
+# 👋 Hello, I'm Abdulrahman  
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Driven cybersecurity learner focused on blue teaming, threat detection, and SOC operations. Passionate about building real-world skills and solving security incidents through practice, not theory.
