@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Abdulrahman  
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](http://www.linkedin.com/in/abd-alrahman-mobarak-b92122372)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://abdurahman.pro"><img src="https://img.shields.io/badge/-Portfolio-0072b1?&style=for-the-badge&logo=Portfolio&logoColor=white" /></a>
 
 Cybersecurity enthusiast focused on system security, networks, and digital defense.
 
@@ -14,15 +15,16 @@ Currently seeking a junior role in cybersecurity, where I can apply my practical
 
 ## 💡 Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation & Log Analysis            | [Detection Lab](https://github.com/) |
-| Network Traffic Monitoring & Attack Detection | [THM Labs](https://tryhackme.com/) |
-| SOC Playbook Creation & IR Documentation      | [SOC Playbook](https://github.com/) |
-| Security Automation with Shuffle              | [SOC Automation Project](https://github.com/) |
-| Case Management with TheHive & Cortex         | [SOC Automation Project](https://github.com/) |
-| Basic Scripting (Python/Bash) for Automation  | [Tools Repo](https://github.com/) |
-
+| Skill                                         |
+|-----------------------------------------------|
+| SIEM Implementation & Log Analysis            |
+| Network Traffic Monitoring & Attack Detection |
+| Incident Response & SOC Playbook Development	     | 
+| Security Automation with Shuffle              |
+| Case Management with TheHive & Cortex         |
+| Basic Scripting (Python/Bash)  |
+| Security Fundamentals (CIA Triad, Risk Mgmt)	 |
+| Threat Intelligence & MITRE ATT&CK Mapping   | 
 ---
 
 ## 🧰 Tools
