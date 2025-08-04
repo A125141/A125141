@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Abdulrahman  
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Driven cybersecurity learner focused on blue teaming, threat detection, and SOC operations. Passionate about building real-world skills and solving security incidents through practice, not theory.
+Cybersecurity enthusiast focused on system security, networks, and digital defense.
+
 
 ---
 
 ## 🎯 Objective
 
-Currently seeking a junior role in cybersecurity (SOC Tier 1 Analyst or related), where I can apply my practical training, continue learning, and contribute to protecting digital environments.
+Currently seeking a junior role in cybersecurity, where I can apply my practical training, continue learning, and contribute to protecting digital environments.
 
 ---
 
