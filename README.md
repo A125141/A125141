@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdulrahman  
 <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](http://www.linkedin.com/in/abd-alrahman-mobarak-b92122372)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://abdurahman.pro"><img src="https://img.shields.io/badge/-Portfolio-0072b1?&style=for-the-badge&logo=Portfolio&logoColor=white" /></a>
+<a href="https://abdurahman.lovestoblog.com"><img src="https://img.shields.io/badge/-Portfolio-EF3B2D?&style=for-the-badge&logo=Portfolio&logoColor=white" /></a>
 
 Cybersecurity enthusiast focused on system security, networks, and digital defense.
 
@@ -33,14 +33,9 @@ Currently seeking a junior role in cybersecurity, where I can apply my practical
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-563D7C?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-563D7C?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### 🖥️ Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
 
 ### 📊 SIEM
 <div>
