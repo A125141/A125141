@@ -53,7 +53,7 @@ Currently seeking a junior role in cybersecurity (SOC Tier 1 Analyst or related)
     <img src="https://img.shields.io/badge/-CyberChef-00758F?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-BeeF-000000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-SET-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ISC2_CC-34A853?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-34A853?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
 ---
