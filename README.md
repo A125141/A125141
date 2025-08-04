@@ -51,6 +51,9 @@ Currently seeking a junior role in cybersecurity (SOC Tier 1 Analyst or related)
     <img src="https://img.shields.io/badge/-TheHive-000000?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shuffle_SOAR-5A2D81?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-CyberChef-00758F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BeeF-000000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SET-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISC2_CC-34A853?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
 ---
@@ -62,8 +65,8 @@ Currently seeking a junior role in cybersecurity (SOC Tier 1 Analyst or related)
     <img src="https://img.shields.io/badge/-Cisco_Cybersecurity-1D9BF0?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Qualys_Cyber_Labs-E00000?&style=for-the-badge&logo=Qualys&logoColor=white" />
     <img src="https://img.shields.io/badge/-Forage_Cybersecurity_Internships-212121?&style=for-the-badge&logo=theforage&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ISC2_CC_(In_Progress)-34A853?&style=for-the-badge&logo=ISC2&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_Ethical_Hacker_(In_Progress)-005073?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISC2_CC-34A853?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-005073?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ---
